@@ -1,0 +1,14 @@
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\obj\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\obj\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.AssemblyInfoInputs.cache
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\obj\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.AssemblyInfo.cs
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\obj\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.csproj.CoreCompileInputs.cache
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\bin\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.exe
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\bin\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.deps.json
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\bin\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.runtimeconfig.json
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\bin\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.dll
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\bin\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.pdb
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\obj\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.dll
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\obj\Debug\net8.0\refint\PhamVanNhatHuy_BaiTapC#.dll
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\obj\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.pdb
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\obj\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.genruntimeconfig.cache
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\obj\Debug\net8.0\ref\PhamVanNhatHuy_BaiTapC#.dll
