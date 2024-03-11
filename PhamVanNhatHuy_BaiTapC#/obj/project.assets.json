@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Laptop T&T\\.nuget\\packages\\": {}
+    "C:\\Users\\pvnhuy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "D:\\DaiHoc\\Nam3\\II\\LTC#\\PhamVanNhatHuy_BaiTapC#\\PhamVanNhatHuy_BaiTapC#\\PhamVanNhatHuy_BaiTapC#.csproj",
       "projectName": "PhamVanNhatHuy_BaiTapC#",
       "projectPath": "D:\\DaiHoc\\Nam3\\II\\LTC#\\PhamVanNhatHuy_BaiTapC#\\PhamVanNhatHuy_BaiTapC#\\PhamVanNhatHuy_BaiTapC#.csproj",
-      "packagesPath": "C:\\Users\\Laptop T&T\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\pvnhuy\\.nuget\\packages\\",
       "outputPath": "D:\\DaiHoc\\Nam3\\II\\LTC#\\PhamVanNhatHuy_BaiTapC#\\PhamVanNhatHuy_BaiTapC#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Laptop T&T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pvnhuy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

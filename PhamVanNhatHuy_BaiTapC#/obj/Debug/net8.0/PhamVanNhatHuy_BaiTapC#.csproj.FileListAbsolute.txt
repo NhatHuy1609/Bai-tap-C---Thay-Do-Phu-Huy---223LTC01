@@ -12,3 +12,4 @@ D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\obj\Debug
 D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\obj\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.pdb
 D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\obj\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.genruntimeconfig.cache
 D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\obj\Debug\net8.0\ref\PhamVanNhatHuy_BaiTapC#.dll
+D:\DaiHoc\Nam3\II\LTC#\PhamVanNhatHuy_BaiTapC#\PhamVanNhatHuy_BaiTapC#\obj\Debug\net8.0\PhamVanNhatHuy_BaiTapC#.sourcelink.json
