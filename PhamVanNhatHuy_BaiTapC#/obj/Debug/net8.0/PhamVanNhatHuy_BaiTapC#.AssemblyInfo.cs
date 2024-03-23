@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhamVanNhatHuy_BaiTapC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1b657b62ff984b30f2eada6de8dcd70b74fa96f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4a6602bb20dda4ee12947c231c1d9aa42d14c73")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhamVanNhatHuy_BaiTapC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhamVanNhatHuy_BaiTapC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

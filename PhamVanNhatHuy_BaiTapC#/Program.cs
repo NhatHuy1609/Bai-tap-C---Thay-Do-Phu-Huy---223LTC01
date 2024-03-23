@@ -2,6 +2,6 @@
 using PhamVanNhatHuy_BaiTapC_;
 using PhamVanNhatHuy_BaiTapC_.BaiTapLinQ;
 
-RunBaiTap.ChayBaiTapLinQJoinBuoi2();
+RunBaiTap.ChayBaiTapLinQ2();
 
 Console.ReadKey();
